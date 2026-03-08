@@ -32,7 +32,7 @@ Axiora provides structured, XBRL-parsed financial data for every listed company 
 
 - **Docs**: [axiora.dev/en/docs](https://axiora.dev/en/docs)
 - **Blog**: [axiora.dev/en/blog](https://axiora.dev/en/blog)
-- **Contact**: onkardahale@protonmail.com
+- **Contact**: onkar@axiora.dev
 
 ---
 
